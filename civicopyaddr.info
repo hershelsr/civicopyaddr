@@ -1,0 +1,5 @@
+name = Civi Copy Address
+description = Copies Address in CiviCRM Contribution and Event Registration pages if default address fields are added as a profile
+package = Other
+core = 6.x
+
